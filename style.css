@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+h1 {
+    font-family: "Anton";
+    color: rgb(101, 98, 98);
+    text-align: center;
+  }
+
+  h2 {
+    font-family: "Anton";
+    color: rgb(101, 98, 98);
+    text-align: center;
+  }
+
+body {
+    background-image: linear-gradient(rgb(240, 32, 32), rgb(45, 42, 42));
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+/* text-align: center; */
+
+a {
+    color: blueviolet;
+}
+
+li {
+    text-align: center;
+    color: blueviolet;
+}
